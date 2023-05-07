@@ -23,7 +23,7 @@ class DicePage extends StatefulWidget {
 
 class _DicePageState extends State<DicePage> {
   int leftDiceNumber =5;
-  int rightDiceNumber =5;
+  int rightDiceNumber =4;
   @override
   Widget build(BuildContext context) {
     
